@@ -77,5 +77,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [Daniel Ezekiel - Portfolio](https://danielezekiel.netlify.app/)
-- GitHub [@Lipkis](https://github.com/Daniel-Ezekiel)
+- GitHub [@Daniel Ezekiel](https://github.com/Daniel-Ezekiel)
 - Twitter [@db_ezekiel](https://twitter.com/db_ezekiel)
