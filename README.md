@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://tasty-recipe.netlify.app/">
+    <a href="https://profilee-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -36,13 +36,13 @@
 
 ## Overview
 
-![Mobile](https://github.com/Daniel-Ezekiel/Chef-Tasty-s-Recipe-Page/blob/main/images/screenshots/Mobile%20-%20screenshot.png)
-![Desktop](https://github.com/Daniel-Ezekiel/Chef-Tasty-s-Recipe-Page/blob/main/images/screenshots/Desktop%20-%20screenshot.png)
+![Mobile](https://github.com/Daniel-Ezekiel/Gallery-Page/blob/main/images/screenshots/Mobile.png)
+![Desktop](https://github.com/Daniel-Ezekiel/Gallery-Page/blob/main/images/screenshots/Desktop.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo? 
-   [See my Demo](https://tasty-recipe.netlify.app/)
+   [See my Demo](https://profilee-page.netlify.app/)
 - What was your experience?
    This challenge has been a real eye opener for me, I've seen my limitations and know what I need to improve on.
 - What have you learned/improved?
